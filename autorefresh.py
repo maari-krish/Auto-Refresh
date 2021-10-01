@@ -6,4 +6,4 @@ url = input("Enter the URL : ")
 while True:
     print("Refreshing...")
     webbrowser.open(url, new=0)
-    sleep(3)
+    sleep(6)
